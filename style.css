@@ -1,0 +1,29 @@
+body{
+    background-color:#ffff
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #47b2e4;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #73c5eb;
+    text-decoration: none;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Jost", sans-serif;
+  }
+  .nav{
+    background-color: #47b2e4;
+    text-align: center;
+   
+  }
